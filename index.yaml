@@ -1,0 +1,27 @@
+apiVersion: v1
+entries:
+  custom-metrics:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2022-10-25T21:12:40.125951+08:00"
+    dependencies:
+    - name: metrics-server
+      repository: https://release.daocloud.io/chartrepo/system
+      version: 3.8.x
+    - name: kube-prometheus
+      repository: https://charts.bitnami.com/bitnami
+      version: 8.x.x
+    - name: prometheus-adapter
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 3.x.x
+    - name: common
+      repository: https://charts.bitnami.com/bitnami
+      version: 2.x.x
+    description: A Helm chart for Kubernetes custom metrics in one.
+    digest: c8bfc9c9a99a532b3449bece5d0a0afba14b56750c1a4660c46ccb0668102b32
+    name: custom-metrics
+    type: application
+    urls:
+    - https://cleverhu.github.io/custom-metrics-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-25T21:12:40.108184+08:00"
