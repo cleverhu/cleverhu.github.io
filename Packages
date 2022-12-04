@@ -1,0 +1,345 @@
+Package: apt.cydiaba.cn112cncncnsmfmbcdtb1145
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Fish
+Depends: firmware (>= 7.0),winterboard
+Filename: debs/aveya_theme.deb
+Size: 2352092
+MD5sum: 71826dc376a3e7163cfd8613a3cf2ce2
+SHA1: 2862779972a746e08657e796b77b684d2f05aad1
+SHA256: 7b6b0d0d0ac50bad0b9237681114fe4d21ff45d44bf61132293384f0e2244f7d
+Section: TB-美化
+Priority: standard
+Tag: role::enduser
+Author: 小冷
+Name: Aveya主题
+Section1: iOS10
+Section2: iOS11
+Sponsor: Fish
+
+Package: cleverhu
+Version: 0.0.1-42
+Architecture: iphoneos-arm
+Maintainer: daocloud-cleverhu
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/cleverhu_0.0.1-42_iphoneos-arm.deb
+Size: 155120
+MD5sum: 71833f9b8869ef2d674f170af9382975
+SHA1: d908c58b5ec661b9d42fa73a1a15901521c1fc7c
+SHA256: 01f17d8366e1a792eb41623883fdd11c2a55ed939bdde4b2a4b1eb9ddcfb40d6
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: daocloud-cleverhu
+Name: ttt
+
+Package: com.25mao.MiYou
+Version: 3.4-6
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/wechat_helper-3.4-6.deb
+Size: 4126208
+MD5sum: b7ca8e1f2057ec2948b1cd62e55e590d
+SHA1: b7b7c5b1bc75c70b2e4ed4827966620f8de4ba89
+SHA256: 1b321dc3c1f59933fc49ba343a8a40556ff4636e463dfdfa04a7f199007aacda
+Section: 微信插件
+Priority: optional
+Author: Mao
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.artikus.preferenceloader
+Version: 1.0.16
+Architecture: iphoneos-arm
+Maintainer: ArtikusHG
+Installed-Size: 448
+Depends: mobilesubstrate
+Conflicts: preferenceloader
+Replaces: preferenceloader
+Provides: preferenceloader (= 2.2.6)
+Filename: debs/preferenceloader.deb
+Size: 41314
+MD5sum: 5fa90623acb314b2898322e153714f23
+SHA1: b099fe425394a82c154098e2024588e72da51be0
+SHA256: e52cae0add8a53395d987085819810fcb7576bb69e21d1a46155b0423119a005
+Section: System
+Description: A lightweight and modern alternative to Dustin Howett's PreferenceLoader.
+Author: ArtikusHG
+Name: PreferenceLoader
+Sponsor: ArtikusHG
+
+Package: com.cydiabc.Flex3beta
+Version: 1:3~Beta98.1
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: debs/flex-3.deb
+Size: 14345958
+MD5sum: 5ca2bb113bbdf5e0be4cd9f003c5238c
+SHA1: ad6ab34d0cab069fc3c550fa5fe327569d53827e
+SHA256: 95f2725634fd2ef85866a1ec9a26eea6924feaead0e40ea81638dc3e664af0b2
+Section: 工具
+Description: 一款强大的App去广告和系统补丁增强神器。
+A12: 1
+Author: John Coates
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Icon2: 5.png
+Name: Flex 3 程序修改器
+Sponsor: Ai-小苹果
+
+Package: com.cydiabc.flexlist
+Version: 1.3-6
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果™
+Installed-Size: 3728
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Filename: debs/FlexList-1.3-6.deb
+Size: 877782
+MD5sum: ed697977e4be4a646658ad5ef1e6cce0
+SHA1: 381c313f18d6b42c2c5ae821dcc4801803464c00
+SHA256: aaf411fd9a06e08a21f8d91949192ace643e971eecad8badbb81d5613dd1959e
+Section: 工具
+Description: FlexList是一款通过设置选择应用，调用Flex视图工具进行应用界面分析的工具，当前版本调用Flex最新版4.1.1，支持Swift应用。
+A12: 1
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Icon2: 5.png
+Name: FlexList调试工具
+Sponsor: Ai-小苹果™
+
+Package: com.cydiabc.flexlist
+Version: 1.3-6
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果™
+Installed-Size: 3728
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Filename: debs/flexlist.deb
+Size: 877782
+MD5sum: ed697977e4be4a646658ad5ef1e6cce0
+SHA1: 381c313f18d6b42c2c5ae821dcc4801803464c00
+SHA256: aaf411fd9a06e08a21f8d91949192ace643e971eecad8badbb81d5613dd1959e
+Section: 工具
+Description: FlexList是一款通过设置选择应用，调用Flex视图工具进行应用界面分析的工具，当前版本调用Flex最新版4.1.1，支持Swift应用。
+A12: 1
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Icon2: 5.png
+Name: FlexList调试工具
+Sponsor: Ai-小苹果™
+
+Package: com.cydiabc.fzyewechat
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: Jan
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/wechat_helper-1.1.5.deb
+Size: 812314
+MD5sum: e8c30418a0ab55a326b48a4df3927578
+SHA1: 9bc344e4fa4572c74aaf71d0d78804447d162c4c
+SHA256: 43adc692d2ee2d80d3580c739b7d72f7714e5964339d9a41602613c10be0e26c
+Section: 微信
+Description: 微信助手兼容最新版8.0.7微信，支持语音转发，朋友圈文本转发，视频转发，收藏语音转发（需缓存语音），具体功能预览截图
+A12: 1
+Author: Jan.
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+Icon2: 10.png
+Name: WeChat微信助手
+Sponsor: Jan
+
+Package: com.cydiabc.fzyewechat
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: Jan
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/wechat_helper.deb
+Size: 812314
+MD5sum: e8c30418a0ab55a326b48a4df3927578
+SHA1: 9bc344e4fa4572c74aaf71d0d78804447d162c4c
+SHA256: 43adc692d2ee2d80d3580c739b7d72f7714e5964339d9a41602613c10be0e26c
+Section: 微信
+Description: 微信助手兼容最新版8.0.7微信，支持语音转发，朋友圈文本转发，视频转发，收藏语音转发（需缓存语音），具体功能预览截图
+A12: 1
+Author: Jan.
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+Icon2: 10.png
+Name: WeChat微信助手
+Sponsor: Jan
+
+Package: com.cydiabc.snowboard2
+Version: 1.5.1~Beta1
+Architecture: iphoneos-arm
+Maintainer: Spark
+Installed-Size: 5108
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: debs/SnowBoard-1.5.1.deb
+Size: 1600646
+MD5sum: 85c92df14f41b077956e19d06f1bfcb6
+SHA1: 93fdd18042910377d967c70bf4c5c9605730b3eb
+SHA256: 1f7dc157a665133836b719f1d001cbc6aeb4c7c3af8c952842d53cecb007e89a
+Section: 工具
+Description: SnowBoard 主题平台，加载主题必备插件，本版本未整合任何扩展，如需扩展，请前往作者源安装：https://sparkdev.me/
+A12: 1
+Author: Spark & Dennis D. Bednarz
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Icon2: 5.png
+Name: SnowBoard主题平台
+Sponsor: Ai-小苹果™
+
+Package: com.guashen.wechathelper
+Version: 1.0-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: debs/gshb_helper.deb
+Size: 117106
+MD5sum: 68ae3d73597945c168bd4bd463af7672
+SHA1: ef2db78472dac6ebf9aa0a5e7d015d65513ed2a9
+SHA256: 529460a63aef7cf2b95046bb0af3aa14c02fc0825b81abcaa7b4fa0f4e3405ff
+Section: 微信
+Priority: optional
+Author: 挂神
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+Name: 多开微信后台推送小助手
+Sponsor: Sileo中文源™ <http://apt.nuosike.cn/>
+
+Package: com.niceios.nicebarx15
+Version: 1.0.0.0-150
+Architecture: iphoneos-arm
+Maintainer: niceios
+Installed-Size: 11288
+Depends: mobilesubstrate,com.niceios.nicehelper15(>=1.0),preferenceloader
+Filename: debs/nicebar15.deb
+Size: 4864216
+MD5sum: 8f40904e402f88eff2d03374d3d08311
+SHA1: 4f7a6e7f3eb23f9d544875f3f4d3a7f7f0d3954e
+SHA256: fc0b51ee58456cd7970b4bdf5f3ab16da2e558b2be73736c463ed53d1504e1d9
+Section: Tweaks
+Description: 状态栏插件.
+Author: niceios
+Name: NiceBarX(iOS15)
+Sponsor: niceios
+
+Package: com.niceios.nicehelper15
+Version: 1.0-54
+Architecture: iphoneos-arm
+Maintainer: niceios
+Installed-Size: 2040
+Filename: debs/nicehelper.deb
+Size: 948918
+MD5sum: 00eb441c1ddc94ab6593837b5da4617b
+SHA1: 370b435a8b2ef03a5cc9ec1242b9f875d910a5bb
+SHA256: 9d1f87f45884d4a81ee5d26867a3641dc993d13c825df3d84efc0f4caaeeea3d
+Section: Addons
+Description: nice插件依赖组件.
+Author: niceios
+Name: NiceHelper15+
+Sponsor: niceios
+
+Package: com.opa334.ccsupport
+Version: 1.3.8
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 388
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Provides: com.ioscreatix.silo
+Filename: debs/ccsupport_1.3.8.deb
+Size: 60666
+MD5sum: 3e2bac552afc9c84e6c82dc97f385868
+SHA1: a07359e61e007a01b1ef0e63123d84bebf22fa86
+SHA256: 303fdfbf0d5875da009767405b92b7c3f0cafcf95d47514f4ec9c74db626a6e6
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Description: Support tweak for CC modules!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Dev: opa334
+Name: CCSupport
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: netskao.qqpurification
+Version: 2.2-5
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1934
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/qqpurification_2.2-5.deb
+Size: 995304
+MD5sum: 08eccd2488e8fd8a982c8fa0ef1c1f18
+SHA1: e0689a47cf783963660fdd7aeca2c54a68fdcc85
+SHA256: b80722a67ceba93ffb4ecd852ea602cd784cfbc346040398d4fccd997fcdc62d
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=qqpurificationDp
+Description: QQ净化，还原聊天本质，干净的QQ给你，设置位于QQ-设置页面顶部，仅支持8.9.0及以上版本
+Tag: purpose::extension
+Author: Netskao <netskao@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=qqpurificationDp
+Dev: netskao
+Name: QQ净化
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: netskao.wechatpurification
+Version: 2.9-3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 18213
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/wechatpurification_2.9-3.deb
+Size: 6333400
+MD5sum: 6f949761b83e804c2d23ef3d1e5d7ac3
+SHA1: 97892897e5a38b0e57b86f9e7cf75c388b3e8923
+SHA256: aba4eca33d86b339743fca162bd05ef29c0a01aebc3756dc79565ae0df228c48
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.26及以上版本，设置位于微信-设置
+Tag: purpose::extension
+Author: Netskao <admin@initnil.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Dev: netskao
+Name: 微信净化
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: re.frida.server
+Version: 16.0.7
+Architecture: iphoneos-arm
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 58372
+Conflicts: re.frida.server64
+Filename: debs/frida_16.0.7_iphoneos-arm.deb
+Size: 17540732
+MD5sum: 0677fa65fefd108093defc1df5bdb796
+SHA1: 57754ff4319974f195725761d9052b62ee4b077c
+SHA256: c770e3d6a1312c7cc8c94310c76a1b964e128b662feb1f19fd4d51c6587fcea8
+Section: Development
+Priority: optional
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
+
+Package: xyz.cypwn.dynamicpeninsula
+Version: 0.1-39k
+Architecture: iphoneos-arm
+Maintainer: CyPwn
+Installed-Size: 1296
+Depends: mobilesubstrate, preferenceloader, xyz.cypwn.limneos, firmware(>=13.0)
+Filename: debs/DynamicPeninsula.deb
+Size: 388224
+MD5sum: 485c920876d0ff1a3405494200603682
+SHA1: fe24e4afabb23f7007863d67f092869a9451fefc
+SHA256: 6907900cf1bcf2ccbb31d620d25c802b4903cc74c4035703df8b306b0952aadd
+Section: Tweaks
+Description: Dynamic Island on your notch
+Author: Elias Limneos
+Depiction: https://repo.cypwn.xyz/depiction/827
+Name: DynamicPeninsula
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/827
+

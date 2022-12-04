@@ -1,0 +1,12 @@
+Origin: 个人独享源
+Label: 个人独享源
+Suite: stable
+Version: 1.0
+Codename: 个人独享源
+Support: http://cydia.saurik.com/support/*
+Architectures: darwin-arm iphoneos-arm
+Components: main
+Description: apps & tweaks
+MD5Sum:
+  be8806290d5904cdf45b542706f6a3ad 165020 main/binary-darwin-arm/Packages
+  03026ac993187b0eecae50466f64fb3c 35049 main/binary-darwin-arm/Packages.gz  
